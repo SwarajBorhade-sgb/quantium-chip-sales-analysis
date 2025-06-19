@@ -27,7 +27,8 @@ The client is a chip brand Category Manager looking to optimize strategy based o
 
 ### ✅ Task 3 – Strategic Report
 - `Quantium_Task3_Report_Swaraj_Borhade.pptx`: Final slide deck following Pyramid Principle
-- `![Screenshot 2025-06-19 011603](https://github.com/user-attachments/assets/31f94e59-2fad-4658-be00-3dce1fab2a41)
+-[Screenshot 2025-06-19 011603](https://github.com/user-attachments/assets/94e61a77-df5a-4435-a8ec-308f88b15530)
+
 `: Visual used in presentation
 
 ---
