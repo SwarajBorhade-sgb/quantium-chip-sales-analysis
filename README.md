@@ -36,11 +36,14 @@ This visualization shows the average chip spend per customer, broken down by lif
 
 ![Average Spend by Segment](Task1/average_spend_by_segment.png)
 
+---
+
 ## 📊 Proportion of Customers by Affluence and Life Stage
 
-This chart shows how different life stages are distributed across affluence tiers (Budget, Mainstream, Premium).
+This chart shows how different life stages are distributed across affluence tiers.
 
-![Customer Proportion by Affluence and Life Stage](Task1/proportion_by_affluence_lifestage.png)
+![Customer Proportion](Task1/proportion_by_affluence_lifestage.png)
+
 
 
 
