@@ -34,7 +34,8 @@ The client is a chip brand Category Manager looking to optimize strategy based o
 
 This visualization shows the average chip spend per customer, broken down by life stage and affluence tier.
 
-![Average Spend by Segment](Task1/average_spend_by_segment.png)
+![Average Spend by Segment]![Screenshot 2025-06-19 011603](https://github.com/user-attachments/assets/cfc018b2-55fb-489a-a32d-f010aca9dfbc)
+
 
 ---
 
@@ -42,7 +43,8 @@ This visualization shows the average chip spend per customer, broken down by lif
 
 This chart shows how different life stages are distributed across affluence tiers.
 
-![Customer Proportion](Task1/proportion_by_affluence_lifestage.png)
+![Customer Proportion]![affluence_lifestage_distribution](https://github.com/user-attachments/assets/617511a3-9ed1-4f06-b916-6cc1c7d7d7aa)
+
 
 
 
