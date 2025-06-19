@@ -65,5 +65,5 @@ This chart shows how different life stages are distributed across affluence tier
 
 ---
 
-📫 Feel free to reach out or connect on [LinkedIn](https://www.linkedin.com/in/swaraj-borhade/)
+📫 Feel free to reach out or connect on [LinkedIn][(https://www.linkedin.com/in/swaraj-borhade/](https://www.linkedin.com/in/swaraj-borhade-921a411a4/details/certifications/)
 c
