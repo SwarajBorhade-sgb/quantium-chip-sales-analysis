@@ -1,2 +1,50 @@
-# quantium-chip-sales-analysis
-Data analytics project simulating a retail strategy role at Quantium using R and Python with insights on customer segmentation and trial uplift analysis.
+# 🛒 Quantium Virtual Internship – Retail Strategy and Analytics
+
+This repository contains my completed work for the Quantium x Forage Virtual Internship program. The project simulates real-world data analysis tasks faced by Quantium analysts in the Retail Analytics division.
+
+---
+
+## 📌 Project Overview
+
+**Business Context:**  
+The client is a chip brand Category Manager looking to optimize strategy based on transaction data, customer segmentation, and promotional trials.
+
+**Key Objectives:**
+- Segment customers by life stage and affluence
+- Analyze purchasing behavior and performance uplift
+- Provide actionable, strategic recommendations
+
+---
+
+## 📊 Tasks & Files
+
+### ✅ Task 1 – Customer Segment Analysis
+- `chips_analysis.Rmd`: RMarkdown file with data cleaning, feature engineering, and segmentation insights
+- `chips_analysis.pdf`: Rendered output with visualizations and recommendations
+
+### ✅ Task 2 – Trial Store Uplift Analysis
+- `Quantium_Task2_UpliftAnalysis.pdf`: Store-level uplift analysis and interpretation of campaign effectiveness
+
+### ✅ Task 3 – Strategic Report
+- `Quantium_Task3_Report_Swaraj_Borhade.pptx`: Final slide deck following Pyramid Principle
+- `![Screenshot 2025-06-19 011603](https://github.com/user-attachments/assets/31f94e59-2fad-4658-be00-3dce1fab2a41)
+`: Visual used in presentation
+
+---
+
+## 🧠 Key Learnings
+- Data cleaning, transformation, and feature engineering in R
+- Uplift modeling and interpretation of control vs trial experiments
+- Structured business communication using the Pyramid Principle
+
+---
+
+## 🏷 Tools Used
+- R, RMarkdown, ggplot2
+- Excel, PowerPoint
+- GitHub, Forage Platform
+
+---
+
+📫 Feel free to reach out or connect on [LinkedIn](https://www.linkedin.com/in/swaraj-borhade/)
+c
